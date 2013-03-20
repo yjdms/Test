@@ -15,6 +15,7 @@ public class MainActivity extends Activity {
 		int b=0;
 		
 		int nn=0;
+		int as =12;
 	}
 
 	@Override
