@@ -13,6 +13,8 @@ public class MainActivity extends Activity {
 		
 		int a=0;
 		int b=0;
+		
+		int nn=0;
 	}
 
 	@Override
